@@ -1,0 +1,14 @@
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\bin\Debug\netcoreapp3.1\TwoSumTarget.exe
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\bin\Debug\netcoreapp3.1\TwoSumTarget.deps.json
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\bin\Debug\netcoreapp3.1\TwoSumTarget.runtimeconfig.json
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\bin\Debug\netcoreapp3.1\TwoSumTarget.runtimeconfig.dev.json
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\bin\Debug\netcoreapp3.1\TwoSumTarget.dll
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\bin\Debug\netcoreapp3.1\TwoSumTarget.pdb
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.csproj.AssemblyReference.cache
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.AssemblyInfoInputs.cache
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.AssemblyInfo.cs
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.csproj.CoreCompileInputs.cache
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.dll
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.pdb
+C:\Users\Dieva\source\repos\TwoSumTarget\TwoSumTarget\obj\Debug\netcoreapp3.1\TwoSumTarget.genruntimeconfig.cache
